@@ -1,2 +1,1 @@
-# helloworld
-myfirst
+学习git 从现在开始
